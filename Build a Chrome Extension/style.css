@@ -1,0 +1,47 @@
+body {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+input {
+    margin: 0px;
+    padding: 20px;
+    border-color: rgb(68, 109, 1);
+    border-style: solid;
+    width: 100%;
+    box-sizing: border-box;
+
+}
+
+button {
+    width: 200px;
+    margin-top: 20px;
+    padding: 20px;
+    color: white;
+    background-color: rgb(68, 109, 1);
+    border: 1px solid rgb(68, 109, 1);
+}
+
+#delete-btn {
+    width: 200px;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: white;
+    color: rgb(68, 109, 1);
+    border: 1px solid rgb(68, 109, 1);
+}
+
+ul {
+    color: rgb(50, 158, 17);
+    list-style: none;
+}
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+    color: rgb(68, 109, 1);
+}
+
